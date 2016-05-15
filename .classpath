@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-junit-1.4.11 4/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-junit-1.4.11 4/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-junit-1.4.11 4/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-junit-1.4.11 4/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/powermock-mockito-junit-1.4.11 4/powermock-mockito-1.4.11-full.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
